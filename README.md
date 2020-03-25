@@ -14,12 +14,7 @@ The internship not only gave me the opportunity to apply my GIS knowledge and sk
 # Ambitions for the Course 
 After my internship last semester, I am thrilled about the opportunity to sharpen my GIS skills and expand my knowledge of how it can be applied in public policy.
 
-Throughout this course, I hope to:
-    develop a workflow for GIS  
-    refine my data visualization skills
-  improve my data mining and management abilities
-  apply my skills and knowledge to a relevant policy area
-  learn more about industries that have a high demand for GIS professionals
+Throughout this course, I hope to develop a workflow for GIS, refine my data visualization skills, and improve my data mining and management abilities. I hope to apply my skills and knowledge to a relevant policy area and learn more about industries that have a high demand for GIS professionals. 
   
   
 # Portfolio
