@@ -1,5 +1,5 @@
 # GIS Portfolio
-Completed in tandem with 90-753 Advanced GIS, Professor Goranson S20
+Completed in tandem with 90-753 Advanced GIS with Professor Goranson, Spring 2020.
 
 # About Me
 My name is Gisselt Gomez, I am a graduating senior pursuing a Bachelor of Arts in Architecture with an additional minor in Politics and Public Policy at Carnegie Mellon University in Pittsburgh, Pennsylvania. 
