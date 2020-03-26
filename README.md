@@ -12,9 +12,9 @@ The internship not only gave me the opportunity to apply my GIS knowledge and sk
 
 
 # Ambitions for the Course 
-After my internship last semester, I am thrilled about the opportunity to sharpen my GIS skills and expand my knowledge of how it can be applied in public policy.
+After my internship last semester, I continued to expand my knowledge on GIS and its practical applications in the realm of policy. The book *Urban Analytics* by Alex Singleton, Seth Spielman and David Folch has helped me understand how local, state and federal governments might use geospatial data for public policy analysis and implementation. It is a great read and inspired me to take this course.
 
-Throughout this course, I hope to develop a workflow for GIS, refine my data visualization skills, and improve my data mining and management abilities. I hope to apply my skills and knowledge to a relevant policy area and learn more about industries that have a high demand for GIS professionals. 
+I am thrilled about the opportunity to sharpen my GIS skills and expand my knowledge of how it can be applied in public policy. Through this course, I hope to develop a workflow for GIS, refine my data visualization skills, and improve my data mining and management abilities. I hope to apply my skills and knowledge to a relevant policy area and learn more about industries that have a high demand for GIS professionals. 
   
   
 # Portfolio
