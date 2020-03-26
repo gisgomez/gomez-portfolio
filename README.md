@@ -2,7 +2,7 @@
 Completed in tandem with 90-753 Advanced GIS, Professor Goranson S20
 
 # About Me
-I am currently pursuing a Bachelor of Arts in Architecture with an additional minor in Politics and Public Policy at Carnegie Mellon University in Pittsburgh, Pennsylvania. 
+My name is Gisselt Gomez, I am a graduating senior pursuing a Bachelor of Arts in Architecture with an additional minor in Politics and Public Policy at Carnegie Mellon University in Pittsburgh, Pennsylvania. 
 
 I was introduced to the field of geospatial analytics through an introductory GIS/CAFM course taught by Professor Kristen Kurland. I signed up for the course hoping to branch out of the realm of traditional architecture and learn more about a data science approach to the built environment. 
 
@@ -19,4 +19,3 @@ I am thrilled about the opportunity to sharpen my GIS skills and expand my knowl
   
 # Portfolio
 Check back soon!
-
