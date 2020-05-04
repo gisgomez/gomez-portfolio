@@ -18,4 +18,13 @@ I am thrilled about the opportunity to sharpen my GIS skills and expand my knowl
   
   
 # Portfolio
-Check back soon!
+Course Final Project, completed in collaboration with Victoria Jackson and Muhammad Osama Sakha. 
+
+The Coronavirus Aid, Relief, and Economic Security Act (CARES Act) provided $376 billion in relief to small businesses across the country. As part of those funds, the government appropriated $350 billion to the Paycheck Protection Program (PPP) which loans small businesses money to retain workers on payroll. The initial round of funding was exhausted within the first couple weeks of the program, leaving many small businesses unable to apply for federal funding. 
+
+An NPR Marketplace article found that during the first distribution of PPP loans states with smaller populations, like those in the Great Plains and upper Midwest, tended to secure more loan money per capita than more populous states. The article identifies fifteen states of particular interest and suggests that small businesses in these states may have a closer relationship with banks in their area and hence, more access to funds under the PPP. 
+
+The goal of our project is to create a tool to map and analyze the distribution of those funds across the fifteen states identified in the NPR Marketplace news article. Our analysis will seek to more closely look at factors that might influence how much PPP loan money is allocated to a state and will consider the number of SBA recognized small business per state as well as the number of FDIC approved banking locations per state. We hypothesize that states with more FDIC approved banking locations (in relation to the amount of small businesses located in that state) will have higher rates of approved PPP loans. 
+
+
+
