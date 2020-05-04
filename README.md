@@ -4,6 +4,8 @@ Completed in tandem with 90-753 Advanced GIS with Professor Goranson, Spring 202
 # About Me
 My name is Gisselt Gomez, I am a graduating senior pursuing a Bachelor of Arts in Architecture with an additional minor in Politics and Public Policy at Carnegie Mellon University in Pittsburgh, Pennsylvania. 
 
+![Self Portrait](https://github.com/gisgomez/gomez-portfolio/blob/master/DC_Portrait.JPG?raw=true)
+
 I was introduced to the field of geospatial analytics through an introductory GIS/CAFM course taught by Professor Kristen Kurland. I signed up for the course hoping to branch out of the realm of traditional architecture and learn more about a data science approach to the built environment. 
 
 For me, geospatial analytics provides an avenue to combat issues of social and economic equity in urban communities. My long standing passion for public policy and urban planning has only expanded since Professor Kurland's course. Last semester I was in Washington, D.C. completing an internship and coursework for my minor in Politics and Public Policy. While in D.C., I interned at the Office of Congresswoman Alexandria Ocasio-Cortez (NY-14) as a Geospatial Data Analyst responsible for building and publishing an interactive web map intended to supplement the congresswoman's "Green New Deal for Public Housing" bill. 
@@ -18,13 +20,18 @@ I am thrilled about the opportunity to sharpen my GIS skills and expand my knowl
   
   
 # Portfolio
-Course Final Project, completed in collaboration with Victoria Jackson and Muhammad Osama Sakha. 
+Here you may find selected works from this course and other projects I have completed throught my undergraduate career.
 
-The Coronavirus Aid, Relief, and Economic Security Act (CARES Act) provided $376 billion in relief to small businesses across the country. As part of those funds, the government appropriated $350 billion to the Paycheck Protection Program (PPP) which loans small businesses money to retain workers on payroll. The initial round of funding was exhausted within the first couple weeks of the program, leaving many small businesses unable to apply for federal funding. 
+# Customized Google Map Style and Map
+This customized Google Maps style was made using the color scheme below, which was derived from an old photo I took when I lived in South Texas. 
 
-An NPR Marketplace article found that during the first distribution of PPP loans states with smaller populations, like those in the Great Plains and upper Midwest, tended to secure more loan money per capita than more populous states. The article identifies fifteen states of particular interest and suggests that small businesses in these states may have a closer relationship with banks in their area and hence, more access to funds under the PPP. 
+![Color Scheme](https://github.com/gisgomez/gomez-portfolio/blob/master/CustomGoogleMaps_ColorScheme.jpg?raw=true)
 
-The goal of our project is to create a tool to map and analyze the distribution of those funds across the fifteen states identified in the NPR Marketplace news article. Our analysis will seek to more closely look at factors that might influence how much PPP loan money is allocated to a state and will consider the number of SBA recognized small business per state as well as the number of FDIC approved banking locations per state. We hypothesize that states with more FDIC approved banking locations (in relation to the amount of small businesses located in that state) will have higher rates of approved PPP loans. 
+The customized color scheme allowed me to make changes to how my map rendered. Here is the final product: 
+![](https://github.com/gisgomez/gomez-portfolio/blob/master/CustomGoogleMaps_Screenshot1.jpg?raw=true)
 
+Water is typically denoted as blue, so I decided to flip that design convention on its head and make bodies of water white so as to have a blank canvas to start with. I think this stylistic choice makes reading and interpreting the map much easier and clearer. 
 
+![](https://github.com/gisgomez/gomez-portfolio/blob/master/CustomGoogleMaps_Screenshot2.jpg?raw=true)
 
+I decided to use medium blue for highways and roads because I wanted these features to highlight the system of interstate highways in the United States when I zoomed out of a city or particular region. 
